@@ -1,0 +1,17 @@
+h2  {text-align: center;}
+
+body{
+    background-color: gold;
+}
+div{
+    width: 1000px; /*you can also write it in % */
+    background-color: aqua;
+    /*
+    margin-left: auto;
+    margin-right: auto;
+    */
+}
+.home{
+    text-align: right;
+}
+.q2{display: inline-block;}
